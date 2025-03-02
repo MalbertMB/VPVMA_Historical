@@ -6,8 +6,6 @@ from compute_EMA import calculate_EMA
 from compute_VPVMA import calculate_VPVMA
 from compute_VPVMAS import calculate_VPVMAS
 
-#Halo
-
 def vpvma(symbol, start_date, end_date, w_long, w_short, w_signal):
     """
     Computes the Volume-Weighted Price Volatility Moving Average (VPVMA) and its smoothed version (VPVMAS)  
