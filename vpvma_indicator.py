@@ -1,10 +1,11 @@
 from data_receiver import download_stock_data
-from compute_TP import calculate_TP
-from compute_VWMA import calculate_vwma
-from compute_Std_volatility import calculate_daily_volatility
-from compute_EMA import calculate_EMA
-from compute_VPVMA import calculate_VPVMA
-from compute_VPVMAS import calculate_VPVMAS
+from Compute.compute_TP import calculate_TP
+from Compute.compute_VWMA import calculate_vwma
+from Compute.compute_Std_volatility import calculate_daily_volatility
+from Compute.compute_EMA import calculate_EMA
+from Compute.compute_VPVMA import calculate_VPVMA
+from Compute.compute_VPVMAS import calculate_VPVMAS
+
 
 def vpvma(symbol, start_date, end_date, w_long, w_short, w_signal):
     """

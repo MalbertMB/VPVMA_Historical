@@ -22,14 +22,14 @@ def plot_stock_with_indicators(stock_data, svwma, lvwma, esv, elv, vpvma, vpvmas
         symbol (str): Stock ticker symbol, used for naming saved plots.
 
     Returns:
-        None: The function saves three separate PNG files in the "Tests/" directory with filenames:
+        None: The function saves three separate PNG files in the "Plots/" directory with filenames:
               "<symbol>1.png", "<symbol>2.png", and "<symbol>3.png".
     """
 
     # Ensure the inputs are consistent
     dates = stock_data.index
     Close_prices = stock_data[('Close',symbol)]
-    save_path = "Tests/" + symbol
+    save_path = "Plots/" + symbol
 
     # Create the first figure for stock data, SVWMA, and LVWMA
     plt.figure(figsize=(12, 6))
@@ -103,7 +103,7 @@ def plot_buy_sell_points(stock_data, buy_points, sell_points, symbol):
         symbol (str): The stock ticker symbol, used for naming the saved plot.
 
     Returns:
-        None: The function saves the PNG file in the "Tests/" directory with filename:
+        None: The function saves the PNG file in the "Plots/" directory with filename:
             "<symbol>5.png", 
     """
 
@@ -130,7 +130,7 @@ def plot_buy_sell_points(stock_data, buy_points, sell_points, symbol):
     plt.xticks(rotation=45)
     plt.tight_layout()
     
-    save_path = "Tests/" + symbol + "5.png"
+    save_path = "Plots/" + symbol + "5.png"
     plt.savefig(save_path, dpi=300, bbox_inches='tight')
 
 
@@ -144,7 +144,7 @@ def plot_histogram(stock_data, histogram, symbol):
         symbol (str): The stock ticker symbol.
 
     Returns:
-        None: The function saves the PNG file in the "Tests/" directory with filename:
+        None: The function saves the PNG file in the "Plots/" directory with filename:
               "<symbol>4.png", 
     """
     plt.figure(figsize=(12, 8))
@@ -161,6 +161,6 @@ def plot_histogram(stock_data, histogram, symbol):
     plt.xticks(rotation=45)
     plt.tight_layout()
     
-    save_path = "Tests/" + symbol + "4.png"
+    save_path = "Plots/" + symbol + "4.png"
     plt.savefig(save_path, dpi=300, bbox_inches='tight')
 
