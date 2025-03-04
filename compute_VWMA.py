@@ -12,14 +12,15 @@ def calculate_vwma(TP_prices, volume, n):
         list: A list containing the calculated VWMA values. The first `n-1` values will be None.
     """
 
-    # Ensure the inputs are of the same length
+    if n <= 0:
+        raise ValueError("calculate_vwma: The period 'n' must be a positive integer.")
     if len(TP_prices) != len(volume):
         raise ValueError("calculate_vwma: TP_prices and volume lists must be of the same length.")
-
-    # Ensure the window size is valid
     if n > len(TP_prices):
         raise ValueError("calculate_vwma: The window size n cannot exceed the length of the input lists.")
-    #To calculate the VWMA we lose data length and to calculate the EMA we need 3 times
+    
+    
+    # To calculate the VWMA we lose data length and to calculate the EMA we need 3 times
     # the data desired, the initial input should be 4-5 times the result.
 
     vwma = []

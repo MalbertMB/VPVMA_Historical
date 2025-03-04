@@ -33,22 +33,20 @@ def calculate_profit_timeframe(stock_data, buy_points, sell_points, symbol):
     for tb, ts in zip(buy_points, sell_points):
         # Ensure valid trade
         result = None
-        if tb < ts:
-            buy_price = stock_data[('Close', symbol)].iloc[tb]
-            sell_price = stock_data[('Close', symbol)].iloc[ts]
-            result = sell_price / buy_price
-        elif tb > ts:
-            buy_price = stock_data[('Close', symbol)].iloc[ts]
-            sell_price = stock_data[('Close', symbol)].iloc[tb]
-            result = buy_price / sell_price
+        buy_price = stock_data[('Close', symbol)].iloc[tb]
+        sell_price = stock_data[('Close', symbol)].iloc[ts]
 
+        if tb < ts: #Long trade
+            result = sell_price / buy_price
+        elif tb > ts: #Short trade
+            result = buy_price / sell_price
+        else:
+            raise ValueError("Buys and sells at the same time")
             
         # Count wins and record profit
         if result > 1:
             wins += 1
-        if result == None:
-            raise ValueError("This motherfucker buys and sells at the same time")
-        
+
         profit.append(result)
 
     # Handle case where no trades were valid

@@ -1,3 +1,5 @@
+import numpy as np
+
 def calculate_EMA(VWMA, DV, window_size):
     """
     Calculate the Exponential Moving Average (EMA) of VWMA * DV.
@@ -14,8 +16,6 @@ def calculate_EMA(VWMA, DV, window_size):
         The length of VWMA and DV must be at least 3 times the window_size.
     """
     
-    if not VWMA or window_size <= 0 or not DV:
-        raise ValueError("calculate_EMA: VWMA and DV must be non-empty lists, and window_size must be a positive integer.")
     
     if len(VWMA) != len(DV):
         raise ValueError("calculate_EMA: VWMA and DV must be equal in length.")
@@ -23,8 +23,12 @@ def calculate_EMA(VWMA, DV, window_size):
     if len(VWMA) < window_size * 3:
         raise ValueError("calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.")
 
+    # Convert to numpy arrays for better performance
+    VWMA = np.array(VWMA)
+    DV = np.array(DV)
+
     # Calculate the values
-    values = [VWMA[i] * DV[i] for i in range(len(VWMA))]
+    values = VWMA * DV
 
     # Initialize EMA values
     ema_values = []

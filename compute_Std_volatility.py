@@ -1,19 +1,30 @@
-import statistics
+import pandas as pd
 
-def calculate_daily_volatility(prices,symbol):
+def calculate_daily_volatility(prices, symbol):
     """
     Calculate the daily volatility (standard deviation) of High, Low, Close, and Open values.
 
     Parameters:
-        pd.DataFrame: The stock data.
+        prices (pd.DataFrame): The stock data.
         symbol (str): The stock symbol to identify the relevant data.
 
     Returns:
-        stdev (list): The standard deviation of the prices
+        list: The standard deviation of the prices for each day.
     """
-
-    stdev = []
-    for i in range(len(prices)):
-        stdev.append(statistics.stdev([prices[('High',symbol)].iloc[i],prices[('Low',symbol)].iloc[i],prices[('Close',symbol)].iloc[i],prices[('Open',symbol)].iloc[i]]))
-
+    
+    
+    if symbol not in prices.columns.get_level_values(1):
+        raise ValueError(f"calculate_daily_volatility: symbol '{symbol}' not found in prices DataFrame.")
+    
+    # Extract the relevant columns
+    high = prices[('High', symbol)]
+    low = prices[('Low', symbol)]
+    close = prices[('Close', symbol)]
+    open_ = prices[('Open', symbol)]
+    
+    # Calculate the standard deviation for each row
+    stdev = (pd.concat([high, low, close, open_], axis=1)
+               .std(axis=1)
+               .tolist())
+    
     return stdev

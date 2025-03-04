@@ -9,7 +9,7 @@ def calculate_VPVMAS(VPVMA, n):
     Returns:
         list: A list containing the simple moving averages for each valid period.
     """
-    
+
     if n <= 0:
         raise ValueError("calculate_VPVMAS: The period 'n' must be a positive integer.")
     if n > len(VPVMA):
@@ -23,10 +23,8 @@ def calculate_VPVMAS(VPVMA, n):
         else:
             # Define the current window
             window = VPVMA[i - n + 1:i + 1]
-
             # Apply the MA formula
             moving_average = sum(window)/n
-
             moving_averages.append(moving_average)        
     
     return moving_averages

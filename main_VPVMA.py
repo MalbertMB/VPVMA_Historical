@@ -1,7 +1,7 @@
 from vpvma_indicator import vpvma
 from plot_indicator import plot_buy_sell_points, plot_stock_with_indicators, plot_histogram
 from compute_histogram import calculate_histogram
-from logic_VPVMA import buy_sell_analysis_timeframe
+from compute_logic_VPVMA import buy_sell_analysis_timeframe
 from compute_profit import calculate_profit_timeframe
 
 def historical_main_VPVMA(symbol, start_date, end_date, w_long, w_short, w_signal, bandwidth, plot = False):
