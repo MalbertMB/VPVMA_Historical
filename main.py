@@ -1,4 +1,4 @@
-from main_historical_tests import *
+from historical_tests import *
 from fetch_stock_symbols import *
 
 
@@ -32,6 +32,10 @@ def main():
 
 
 def main_auxiliar():
+    """
+    Main function to run the historical tests on a list of stock symbols.
+    Made to study the effect of the bandwidth parameter on the results.
+    """
     
     dicc = {
         "Dow Jones average return" : [],
