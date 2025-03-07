@@ -18,6 +18,7 @@ def historical_tests_xlsx(symbols, start_date, end_date, w_long, w_short, w_sign
         None
     """
     results = []
+    errors = []
     total_trades = 0
     total_wins = 0
     total_profit = []
@@ -36,14 +37,19 @@ def historical_tests_xlsx(symbols, start_date, end_date, w_long, w_short, w_sign
             
             print(f"{symbol}: Average Profit per Trade: {profit_percentage:.2f}%, Number of Trades: {aux_trades}, Win Rate: {win_rate:.2f}%")
         except Exception as e:
-            print(f"Error with symbol: {symbol} {str(e)}")
-            results.append([symbol, "Error", "Error", "Error"])
+            print(f"Error with symbol: {symbol}")
+            errors.append(symbol +": "+ str(e))
     
     # Convert results to DataFrame
     df = pd.DataFrame(results, columns=["Symbol", "Average Profit per Trade (%)", "Number of Trades", "Win Rate (%)"])
     df.to_excel("Results.xlsx", index=False)
     
-    print("Results saved to Results.xlsx")
+    # Save errors to text file
+    with open("Errors.txt", "w") as file:
+        for error in errors:
+            file.write(error + "\n")
+    
+    print("Results and Errors saved to Results.xlsx and Errors.txt")
     return None
 
 

@@ -13,9 +13,6 @@ def calculate_daily_volatility(prices, symbol):
     """
     
     
-    if symbol not in prices.columns.get_level_values(1):
-        raise ValueError(f"calculate_daily_volatility: symbol '{symbol}' not found in prices DataFrame.")
-    
     # Extract the relevant columns
     high = prices[('High', symbol)]
     low = prices[('Low', symbol)]

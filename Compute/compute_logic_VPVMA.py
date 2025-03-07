@@ -1,6 +1,8 @@
 def buy_sell_analysis_timeframe(VPVMA,VPVMAS,bandwidth):
     """
     Identify buying and selling points based on trading logic.
+    The logic is based on the comparison of two moving averages, VPVMA and VPVMAS.
+    The function returns the indices of the buying and selling points.
 
     Parameters:
         VPVMA (list or np.array): The first list or array of numerical values, typically the shorter moving average.

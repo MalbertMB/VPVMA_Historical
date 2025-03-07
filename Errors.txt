@@ -1,0 +1,4 @@
+AMCR: unsupported operand type(s) for *: 'NoneType' and 'float'
+BRK.B: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BF.B: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HWM: unsupported operand type(s) for *: 'NoneType' and 'float'

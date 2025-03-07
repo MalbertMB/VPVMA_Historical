@@ -20,6 +20,3 @@ def calculate_TP(stock_data, symbol):
     TP_Data = ((high + low + close) / 3).tolist()
     
     return TP_Data
-
-"""------------------------- Potential Error -------------------------"""
-#Before modification, the function returned a np.array "[np.float64(0.0)]" instead of a list "[0.0]"
