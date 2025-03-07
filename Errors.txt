@@ -1,4 +1,890 @@
-AMCR: unsupported operand type(s) for *: 'NoneType' and 'float'
-BRK.B: calculate_vwma: The window size n cannot exceed the length of the input lists.
-BF.B: calculate_vwma: The window size n cannot exceed the length of the input lists.
-HWM: unsupported operand type(s) for *: 'NoneType' and 'float'
+AACBU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AAPG: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AARD: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ABAT: unsupported operand type(s) for *: 'NoneType' and 'float'
+ABLLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ABLVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ABPWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ABTS: unsupported operand type(s) for *: 'NoneType' and 'float'
+ABVC: unsupported operand type(s) for *: 'NoneType' and 'float'
+ABVEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ACB: unsupported operand type(s) for *: 'NoneType' and 'float'
+ACIC: unsupported operand type(s) for *: 'NoneType' and 'float'
+ACOG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ACONW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ADD: unsupported operand type(s) for *: 'NoneType' and 'float'
+ADNWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ADSEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ADVWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ADXN: unsupported operand type(s) for *: 'NoneType' and 'float'
+AEHL: unsupported operand type(s) for *: 'NoneType' and 'float'
+AENTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AERT: unsupported operand type(s) for *: 'NoneType' and 'float'
+AERTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AEVA: unsupported operand type(s) for *: 'NoneType' and 'float'
+AEVAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AFJKR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AFRIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AGH: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AIFF: unsupported operand type(s) for *: 'NoneType' and 'float'
+AIMAU: unsupported operand type(s) for *: 'NoneType' and 'float'
+AIMAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AIMBU: unsupported operand type(s) for *: 'NoneType' and 'float'
+AIMDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AIRJ: unsupported operand type(s) for *: 'NoneType' and 'float'
+AIRJW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AIRTP: unsupported operand type(s) for *: 'NoneType' and 'float'
+AISPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AITRR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AITRU: unsupported operand type(s) for *: 'NoneType' and 'float'
+ALCY: unsupported operand type(s) for *: 'NoneType' and 'float'
+ALCYW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ALDF: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ALDFU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ALDFW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ALFUW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ALLR: unsupported operand type(s) for *: 'NoneType' and 'float'
+ALRS: unsupported operand type(s) for *: 'NoneType' and 'float'
+ALVOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AMODW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AMPGW: unsupported operand type(s) for *: 'NoneType' and 'float'
+ANGHW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ANNA: unsupported operand type(s) for *: 'NoneType' and 'float'
+ANNAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ANSCU: unsupported operand type(s) for *: 'NoneType' and 'float'
+ANSCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+APCX: unsupported operand type(s) for *: 'NoneType' and 'float'
+APCXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+APLMW: unsupported operand type(s) for *: 'NoneType' and 'float'
+APPS: unsupported operand type(s) for *: 'NoneType' and 'float'
+APTO: unsupported operand type(s) for *: 'NoneType' and 'float'
+AQU: unsupported operand type(s) for *: 'NoneType' and 'float'
+AQUNR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AQUNU: unsupported operand type(s) for *: 'NoneType' and 'float'
+ARBEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AREBW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AREC: unsupported operand type(s) for *: 'NoneType' and 'float'
+ARKOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ARQQW: unsupported operand type(s) for *: 'NoneType' and 'float'
+ASBPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ASPC: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ASPCR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ASPCU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ASTH: unsupported operand type(s) for *: 'NoneType' and 'float'
+ASTLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ATIIU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ATMCR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ATMCU: unsupported operand type(s) for *: 'NoneType' and 'float'
+ATMCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ATMVR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ATNF: unsupported operand type(s) for *: 'NoneType' and 'float'
+ATNFW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ATXG: unsupported operand type(s) for *: 'NoneType' and 'float'
+AUROW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AUUDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AVPTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+AVR: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+AYRO: unsupported operand type(s) for *: 'NoneType' and 'float'
+AYTU: unsupported operand type(s) for *: 'NoneType' and 'float'
+BACQ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BACQR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BACQU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BAERW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BANFP: unsupported operand type(s) for *: 'NoneType' and 'float'
+BAYA: unsupported operand type(s) for *: 'NoneType' and 'float'
+BAYAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BBLGW: unsupported operand type(s) for *: 'NoneType' and 'float'
+BBNX: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BCAL: unsupported operand type(s) for *: 'NoneType' and 'float'
+BCAX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BCDA: unsupported operand type(s) for *: 'NoneType' and 'float'
+BCGWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BCML: unsupported operand type(s) for *: 'NoneType' and 'float'
+BCTX: unsupported operand type(s) for *: 'NoneType' and 'float'
+BCTXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BDMDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BDRX: unsupported operand type(s) for *: 'NoneType' and 'float'
+BEAG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BEAGR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BEAGU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BEATW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BENFW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BFRGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BFRIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BGLC: unsupported operand type(s) for *: 'NoneType' and 'float'
+BHRB: unsupported operand type(s) for *: 'NoneType' and 'float'
+BIAFW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BIOA: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BITF: unsupported operand type(s) for *: 'NoneType' and 'float'
+BKHAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BLBD: unsupported operand type(s) for *: 'NoneType' and 'float'
+BLBX: unsupported operand type(s) for *: 'NoneType' and 'float'
+BLDEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BMGL: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BNAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BNIX: unsupported operand type(s) for *: 'NoneType' and 'float'
+BNIXR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BNIXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BNZIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BOSC: unsupported operand type(s) for *: 'NoneType' and 'float'
+BOTJ: unsupported operand type(s) for *: 'NoneType' and 'float'
+BOWNR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BOWNU: unsupported operand type(s) for *: 'NoneType' and 'float'
+BPRN: unsupported operand type(s) for *: 'NoneType' and 'float'
+BRAG: unsupported operand type(s) for *: 'NoneType' and 'float'
+BRLSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BRTX: unsupported operand type(s) for *: 'NoneType' and 'float'
+BSII: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+BSIIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BTBDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BTBT: unsupported operand type(s) for *: 'NoneType' and 'float'
+BTCS: unsupported operand type(s) for *: 'NoneType' and 'float'
+BTCTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BTMWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BUJA: unsupported operand type(s) for *: 'NoneType' and 'float'
+BUJAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BUJAU: unsupported operand type(s) for *: 'NoneType' and 'float'
+BVFL: unsupported operand type(s) for *: 'NoneType' and 'float'
+BWFG: unsupported operand type(s) for *: 'NoneType' and 'float'
+BYRN: unsupported operand type(s) for *: 'NoneType' and 'float'
+BZAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+BZFDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CAMP: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CAPN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CAPNR: unsupported operand type(s) for *: 'NoneType' and 'float'
+CAPTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CARV: unsupported operand type(s) for *: 'NoneType' and 'float'
+CASK: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CBFV: unsupported operand type(s) for *: 'NoneType' and 'float'
+CBLL: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CCIR: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CCIRU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CCIRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CCIXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CCLDP: unsupported operand type(s) for *: 'NoneType' and 'float'
+CDIOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CDROW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CDT: unsupported operand type(s) for *: 'NoneType' and 'float'
+CDTTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CEADW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CELUW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CELZ: unsupported operand type(s) for *: 'NoneType' and 'float'
+CENN: unsupported operand type(s) for *: 'NoneType' and 'float'
+CEPO: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CEROW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CETX: unsupported operand type(s) for *: 'NoneType' and 'float'
+CGBSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CGTL: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CHAR: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CHARR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CIFRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CINGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CJJD: unsupported operand type(s) for *: 'NoneType' and 'float'
+CJMB: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CKPT: unsupported operand type(s) for *: 'NoneType' and 'float'
+CLGN: unsupported operand type(s) for *: 'NoneType' and 'float'
+CLIK: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CLNN: unsupported operand type(s) for *: 'NoneType' and 'float'
+CLNNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CLRB: unsupported operand type(s) for *: 'NoneType' and 'float'
+CLRC: unsupported operand type(s) for *: 'NoneType' and 'float'
+CLRCR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CLRCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CLSK: unsupported operand type(s) for *: 'NoneType' and 'float'
+CLSKW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CMPOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CNCK: unsupported operand type(s) for *: 'NoneType' and 'float'
+CNCKW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CNFRZ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+CNSP: unsupported operand type(s) for *: 'NoneType' and 'float'
+COCHW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+COCP: unsupported operand type(s) for *: 'NoneType' and 'float'
+CODA: unsupported operand type(s) for *: 'NoneType' and 'float'
+COEPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+COFS: unsupported operand type(s) for *: 'NoneType' and 'float'
+COLAU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+COOTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CORZW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CORZZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+COSM: unsupported operand type(s) for *: 'NoneType' and 'float'
+CPSH: unsupported operand type(s) for *: 'NoneType' and 'float'
+CRDF: unsupported operand type(s) for *: 'NoneType' and 'float'
+CRESW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CREVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CRGOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CRKN: unsupported operand type(s) for *: 'NoneType' and 'float'
+CRMLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CRVO: unsupported operand type(s) for *: 'NoneType' and 'float'
+CSAI: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CSLRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CTCXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CTXR: unsupported operand type(s) for *: 'NoneType' and 'float'
+CUBWU: unsupported operand type(s) for *: 'NoneType' and 'float'
+CUBWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CURIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CXAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CYCCP: unsupported operand type(s) for *: 'NoneType' and 'float'
+CYCU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CYCUW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+CYTHW: unsupported operand type(s) for *: 'NoneType' and 'float'
+DAVEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DECA: unsupported operand type(s) for *: 'NoneType' and 'float'
+DECAU: unsupported operand type(s) for *: 'NoneType' and 'float'
+DECAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DEVS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+DFLIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DGICB: unsupported operand type(s) for *: 'NoneType' and 'float'
+DGNX: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DHAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DHCNL: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DISTR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DKNG: unsupported operand type(s) for *: 'NoneType' and 'float'
+DLPN: unsupported operand type(s) for *: 'NoneType' and 'float'
+DMAA: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DMAAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DMAAU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DMAC: unsupported operand type(s) for *: 'NoneType' and 'float'
+DMN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+DOMH: unsupported operand type(s) for *: 'NoneType' and 'float'
+DOOO: unsupported operand type(s) for *: 'NoneType' and 'float'
+DRDB: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DRDBU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+DRDBW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DRMAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DRTSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DSYWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DTSQ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+DTSQR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DTSS: unsupported operand type(s) for *: 'NoneType' and 'float'
+DTST: unsupported operand type(s) for *: 'NoneType' and 'float'
+DTSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DUOT: unsupported operand type(s) for *: 'NoneType' and 'float'
+DVLT: unsupported operand type(s) for *: 'NoneType' and 'float'
+DXR: unsupported operand type(s) for *: 'NoneType' and 'float'
+DXST: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DYCQR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+DYNX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+DYNXU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+DYNXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ECDAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ECXWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EDBLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EDSA: unsupported operand type(s) for *: 'NoneType' and 'float'
+EFSI: unsupported operand type(s) for *: 'NoneType' and 'float'
+ELVA: unsupported operand type(s) for *: 'NoneType' and 'float'
+EMCGR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EMCGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ENGN: unsupported operand type(s) for *: 'NoneType' and 'float'
+ENGNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ENSC: unsupported operand type(s) for *: 'NoneType' and 'float'
+ENTO: unsupported operand type(s) for *: 'NoneType' and 'float'
+ENVB: unsupported operand type(s) for *: 'NoneType' and 'float'
+EPIX: unsupported operand type(s) for *: 'NoneType' and 'float'
+EPWK: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ESGL: unsupported operand type(s) for *: 'NoneType' and 'float'
+ESGLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ESHAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ESLA: unsupported operand type(s) for *: 'NoneType' and 'float'
+ESLAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EU: unsupported operand type(s) for *: 'NoneType' and 'float'
+EUDAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EURKR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EURKU: unsupported operand type(s) for *: 'NoneType' and 'float'
+EVGN: unsupported operand type(s) for *: 'NoneType' and 'float'
+EVLVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+EXEEW: unsupported operand type(s) for *: 'NoneType' and 'float'
+EXEEZ: unsupported operand type(s) for *: 'NoneType' and 'float'
+EXOZ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FAASW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FACT: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FATBW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FBGL: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FBLA: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FBYDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FCUV: unsupported operand type(s) for *: 'NoneType' and 'float'
+FDBC: unsupported operand type(s) for *: 'NoneType' and 'float'
+FER: unsupported operand type(s) for *: 'NoneType' and 'float'
+FERAU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FFIEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FGBI: unsupported operand type(s) for *: 'NoneType' and 'float'
+FGBIP: unsupported operand type(s) for *: 'NoneType' and 'float'
+FGIWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FGL: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FGMC: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FGMCR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FGMCU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FLDDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FLX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FMAO: unsupported operand type(s) for *: 'NoneType' and 'float'
+FMBH: unsupported operand type(s) for *: 'NoneType' and 'float'
+FMSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FMTO: unsupported operand type(s) for *: 'NoneType' and 'float'
+FNGR: unsupported operand type(s) for *: 'NoneType' and 'float'
+FNWD: unsupported operand type(s) for *: 'NoneType' and 'float'
+FORL: unsupported operand type(s) for *: 'NoneType' and 'float'
+FOXX: unsupported operand type(s) for *: 'NoneType' and 'float'
+FOXXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FPAY: unsupported operand type(s) for *: 'NoneType' and 'float'
+FRBA: unsupported operand type(s) for *: 'NoneType' and 'float'
+FSHPR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FUFUW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+FVN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FVNNR: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+FVNNU: unsupported operand type(s) for *: 'NoneType' and 'float'
+GAINI: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+GAME: unsupported operand type(s) for *: 'NoneType' and 'float'
+GATE: unsupported operand type(s) for *: 'NoneType' and 'float'
+GATEW: unsupported operand type(s) for *: 'NoneType' and 'float'
+GBBK: unsupported operand type(s) for *: 'NoneType' and 'float'
+GBBKR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GBBKW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GCL: unsupported operand type(s) for *: 'NoneType' and 'float'
+GCLWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GCMGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GCTK: unsupported operand type(s) for *: 'NoneType' and 'float'
+GDC: unsupported operand type(s) for *: 'NoneType' and 'float'
+GDEV: unsupported operand type(s) for *: 'NoneType' and 'float'
+GDST: unsupported operand type(s) for *: 'NoneType' and 'float'
+GDSTR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GDSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GECCH: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+GECCZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GELS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+GFAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GGROW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GIGGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GIPRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GLACR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GLBS: unsupported operand type(s) for *: 'NoneType' and 'float'
+GLBZ: unsupported operand type(s) for *: 'NoneType' and 'float'
+GLE: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+GLSTR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GLSTU: unsupported operand type(s) for *: 'NoneType' and 'float'
+GLSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GMAB: unsupported operand type(s) for *: 'NoneType' and 'float'
+GMGI: unsupported operand type(s) for *: 'NoneType' and 'float'
+GOVXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GPATW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GRCE: unsupported operand type(s) for *: 'NoneType' and 'float'
+GRRRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+GSRT: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+GSRTR: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+GTEC: unsupported operand type(s) for *: 'NoneType' and 'float'
+GTI: unsupported operand type(s) for *: 'NoneType' and 'float'
+GYRO: unsupported operand type(s) for *: 'NoneType' and 'float'
+HCAI: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HCVIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HFBL: unsupported operand type(s) for *: 'NoneType' and 'float'
+HIT: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+HIVE: unsupported operand type(s) for *: 'NoneType' and 'float'
+HKPD: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HMR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HOFV: unsupported operand type(s) for *: 'NoneType' and 'float'
+HOFVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HOLOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HOND: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+HONDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HOVRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HPAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HPKEW: unsupported operand type(s) for *: 'NoneType' and 'float'
+HROW: unsupported operand type(s) for *: 'NoneType' and 'float'
+HSDT: unsupported operand type(s) for *: 'NoneType' and 'float'
+HSPOR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HSPOU: unsupported operand type(s) for *: 'NoneType' and 'float'
+HSPT: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HSPTR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HTCO: unsupported operand type(s) for *: 'NoneType' and 'float'
+HTLM: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+HTZWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HUBCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HUBCZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HUHU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+HUMAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HURA: unsupported operand type(s) for *: 'NoneType' and 'float'
+HVII: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HVIIR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HVIIU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+HWH: unsupported operand type(s) for *: 'NoneType' and 'float'
+HYMCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IBACR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IBG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ICCH: unsupported operand type(s) for *: 'NoneType' and 'float'
+ICUCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ILLR: unsupported operand type(s) for *: 'NoneType' and 'float'
+ILLRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IMRN: unsupported operand type(s) for *: 'NoneType' and 'float'
+IMTE: unsupported operand type(s) for *: 'NoneType' and 'float'
+IMTXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+INBK: unsupported operand type(s) for *: 'NoneType' and 'float'
+INLF: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+INSE: unsupported operand type(s) for *: 'NoneType' and 'float'
+INTG: unsupported operand type(s) for *: 'NoneType' and 'float'
+INTZ: unsupported operand type(s) for *: 'NoneType' and 'float'
+INV: unsupported operand type(s) for *: 'NoneType' and 'float'
+INVZW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IOVA: unsupported operand type(s) for *: 'NoneType' and 'float'
+IPA: unsupported operand type(s) for *: 'NoneType' and 'float'
+IPDN: unsupported operand type(s) for *: 'NoneType' and 'float'
+IPXXU: unsupported operand type(s) for *: 'NoneType' and 'float'
+IPXXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IROHR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IROHU: unsupported operand type(s) for *: 'NoneType' and 'float'
+ISRLU: unsupported operand type(s) for *: 'NoneType' and 'float'
+ISRLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+IVDA: unsupported operand type(s) for *: 'NoneType' and 'float'
+IVDAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+JAGX: unsupported operand type(s) for *: 'NoneType' and 'float'
+JFBRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+JSPR: unsupported operand type(s) for *: 'NoneType' and 'float'
+JSPRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+JTAI: unsupported operand type(s) for *: 'NoneType' and 'float'
+JUNS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+JVSAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+JXG: unsupported operand type(s) for *: 'NoneType' and 'float'
+KBSX: unsupported operand type(s) for *: 'NoneType' and 'float'
+KDLYW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KELYB: unsupported operand type(s) for *: 'NoneType' and 'float'
+KFIIU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KITTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KLTO: unsupported operand type(s) for *: 'NoneType' and 'float'
+KLTOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KPLTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KPRX: unsupported operand type(s) for *: 'NoneType' and 'float'
+KTTAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KVACU: unsupported operand type(s) for *: 'NoneType' and 'float'
+KVACW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+KWESW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LAZR: unsupported operand type(s) for *: 'NoneType' and 'float'
+LBGJ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+LBTYB: unsupported operand type(s) for *: 'NoneType' and 'float'
+LCFYW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LDTCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LEXXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LGHLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LGMK: unsupported operand type(s) for *: 'NoneType' and 'float'
+LIND: unsupported operand type(s) for *: 'NoneType' and 'float'
+LINK: unsupported operand type(s) for *: 'NoneType' and 'float'
+LIXT: unsupported operand type(s) for *: 'NoneType' and 'float'
+LMB: unsupported operand type(s) for *: 'NoneType' and 'float'
+LNKS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+LNZAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LOKVU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LOTWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LPAAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LPBB: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+LPBBU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+LPBBW: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+LPRO: unsupported operand type(s) for *: 'NoneType' and 'float'
+LSBK: unsupported operand type(s) for *: 'NoneType' and 'float'
+LSBPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LSE: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+LSEAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LTRYW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LUCYW: unsupported operand type(s) for *: 'NoneType' and 'float'
+LUNR: unsupported operand type(s) for *: 'NoneType' and 'float'
+LUNRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LVO: unsupported operand type(s) for *: 'NoneType' and 'float'
+LVRO: unsupported operand type(s) for *: 'NoneType' and 'float'
+LVROW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+LZMH: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MACIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MAPSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MARA: unsupported operand type(s) for *: 'NoneType' and 'float'
+MARPS: unsupported operand type(s) for *: 'NoneType' and 'float'
+MASK: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MAYAU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MAYS: unsupported operand type(s) for *: 'NoneType' and 'float'
+MAZE: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MBAV: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MBAVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MBCN: unsupported operand type(s) for *: 'NoneType' and 'float'
+MBINL: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MBRX: unsupported operand type(s) for *: 'NoneType' and 'float'
+MBX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MCTR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MCVT: unsupported operand type(s) for *: 'NoneType' and 'float'
+MDAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MDCX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MDCXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MESO: unsupported operand type(s) for *: 'NoneType' and 'float'
+METCB: calculate_vwma: The window size n cannot exceed the length of the input lists.
+METCZ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MFICL: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MGYR: unsupported operand type(s) for *: 'NoneType' and 'float'
+MIGI: unsupported operand type(s) for *: 'NoneType' and 'float'
+MIMI: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MKDWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MLAC: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MLACR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MLACU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MLECW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MNMD: unsupported operand type(s) for *: 'NoneType' and 'float'
+MNSB: unsupported operand type(s) for *: 'NoneType' and 'float'
+MNTSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MOBBW: unsupported operand type(s) for *: 'NoneType' and 'float'
+MOBX: unsupported operand type(s) for *: 'NoneType' and 'float'
+MOBXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MPB: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MRNO: unsupported operand type(s) for *: 'NoneType' and 'float'
+MRNOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MSAIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MSPRW: unsupported operand type(s) for *: 'NoneType' and 'float'
+MSPRZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MSSA: unsupported operand type(s) for *: 'NoneType' and 'float'
+MSSAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MSSAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MSW: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+MTEKW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MTSR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MULN: unsupported operand type(s) for *: 'NoneType' and 'float'
+MVBF: unsupported operand type(s) for *: 'NoneType' and 'float'
+MVSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+MYSZ: unsupported operand type(s) for *: 'NoneType' and 'float'
+NAMI: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NAOV: unsupported operand type(s) for *: 'NoneType' and 'float'
+NBIS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NBN: unsupported operand type(s) for *: 'NoneType' and 'float'
+NCEW: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NCIQ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NCPL: unsupported operand type(s) for *: 'NoneType' and 'float'
+NCPLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NCRA: unsupported operand type(s) for *: 'NoneType' and 'float'
+NDRA: unsupported operand type(s) for *: 'NoneType' and 'float'
+NEHC: unsupported operand type(s) for *: 'NoneType' and 'float'
+NEHCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NEOVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NESRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NETDU: unsupported operand type(s) for *: 'NoneType' and 'float'
+NETDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NEUP: unsupported operand type(s) for *: 'NoneType' and 'float'
+NEWTH: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NEXT: unsupported operand type(s) for *: 'NoneType' and 'float'
+NHICU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NIOBW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NITO: unsupported operand type(s) for *: 'NoneType' and 'float'
+NIVFW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NIXX: unsupported operand type(s) for *: 'NoneType' and 'float'
+NIXXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NKGNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NLSPW: unsupported operand type(s) for *: 'NoneType' and 'float'
+NNAVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NNNN: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NOEM: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NOEMR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NOEMW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NRSNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NRXP: unsupported operand type(s) for *: 'NoneType' and 'float'
+NRXPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NSPR: unsupported operand type(s) for *: 'NoneType' and 'float'
+NTCL: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NTRBW: unsupported operand type(s) for *: 'NoneType' and 'float'
+NTWO: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NTWOU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+NTWOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NUKKW: unsupported operand type(s) for *: 'NoneType' and 'float'
+NURO: unsupported operand type(s) for *: 'NoneType' and 'float'
+NUWE: unsupported operand type(s) for *: 'NoneType' and 'float'
+NVAWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NVEE: unsupported operand type(s) for *: 'NoneType' and 'float'
+NVNI: unsupported operand type(s) for *: 'NoneType' and 'float'
+NVNIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NVVEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NWTNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NXGLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NXLIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NXPL: unsupported operand type(s) for *: 'NoneType' and 'float'
+NXPLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NYMTG: calculate_vwma: The window size n cannot exceed the length of the input lists.
+NYXH: unsupported operand type(s) for *: 'NoneType' and 'float'
+OABIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OACC: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+OACCU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+OACCW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OAKUR: unsupported operand type(s) for *: 'NoneType' and 'float'
+OAKUW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OBT: unsupported operand type(s) for *: 'NoneType' and 'float'
+OCCIM: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+OCEA: unsupported operand type(s) for *: 'NoneType' and 'float'
+OCEAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OCSAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ODVWZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ODYS: unsupported operand type(s) for *: 'NoneType' and 'float'
+OLB: unsupported operand type(s) for *: 'NoneType' and 'float'
+ONCY: unsupported operand type(s) for *: 'NoneType' and 'float'
+ONEG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ONFOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ONMDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OPBK: unsupported operand type(s) for *: 'NoneType' and 'float'
+OPTXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ORGNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ORGO: unsupported operand type(s) for *: 'NoneType' and 'float'
+ORIS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+OSRHW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OSW: unsupported operand type(s) for *: 'NoneType' and 'float'
+OTRK: unsupported operand type(s) for *: 'NoneType' and 'float'
+OUSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OUSTZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OXBRW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+OXLCG: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PALI: unsupported operand type(s) for *: 'NoneType' and 'float'
+PAVMZ: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PAYS: unsupported operand type(s) for *: 'NoneType' and 'float'
+PBHC: unsupported operand type(s) for *: 'NoneType' and 'float'
+PBM: unsupported operand type(s) for *: 'NoneType' and 'float'
+PBMWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PC: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+PCLA: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PCSA: unsupported operand type(s) for *: 'NoneType' and 'float'
+PCTTU: unsupported operand type(s) for *: 'NoneType' and 'float'
+PCTTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PDYNW: unsupported operand type(s) for *: 'NoneType' and 'float'
+PECO: unsupported operand type(s) for *: 'NoneType' and 'float'
+PETWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PFIS: unsupported operand type(s) for *: 'NoneType' and 'float'
+PGYWW: unsupported operand type(s) for *: 'NoneType' and 'float'
+PHH: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+PHIO: unsupported operand type(s) for *: 'NoneType' and 'float'
+PHUN: unsupported operand type(s) for *: 'NoneType' and 'float'
+PITAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PLAO: unsupported operand type(s) for *: 'NoneType' and 'float'
+PLMK: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PLMKU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PLMKW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PLRZ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+PLUT: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PLYA: unsupported operand type(s) for *: 'NoneType' and 'float'
+PMN: unsupported operand type(s) for *: 'NoneType' and 'float'
+PNRG: unsupported operand type(s) for *: 'NoneType' and 'float'
+POAI: unsupported operand type(s) for *: 'NoneType' and 'float'
+POCI: unsupported operand type(s) for *: 'NoneType' and 'float'
+POET: unsupported operand type(s) for *: 'NoneType' and 'float'
+POLE: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+POLEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+PONY: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+POWW: unsupported operand type(s) for *: 'NoneType' and 'float'
+PPSI: unsupported operand type(s) for *: 'NoneType' and 'float'
+PRPL: unsupported operand type(s) for *: 'NoneType' and 'float'
+PRTC: unsupported operand type(s) for *: 'NoneType' and 'float'
+PRTG: unsupported operand type(s) for *: 'NoneType' and 'float'
+PRTH: unsupported operand type(s) for *: 'NoneType' and 'float'
+PSHG: unsupported operand type(s) for *: 'NoneType' and 'float'
+PTLE: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+PXSAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+QETAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+QIPT: unsupported operand type(s) for *: 'NoneType' and 'float'
+QLGN: unsupported operand type(s) for *: 'NoneType' and 'float'
+QRHC: unsupported operand type(s) for *: 'NoneType' and 'float'
+QSIAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+QUBT: unsupported operand type(s) for *: 'NoneType' and 'float'
+QVCGB: unsupported operand type(s) for *: 'NoneType' and 'float'
+RADX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+RAIN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+RAINW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RAND: unsupported operand type(s) for *: 'NoneType' and 'float'
+RANGR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RANGU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+RCAT: unsupported operand type(s) for *: 'NoneType' and 'float'
+RCKTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RDAC: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+RDIB: unsupported operand type(s) for *: 'NoneType' and 'float'
+RDZN: unsupported operand type(s) for *: 'NoneType' and 'float'
+RDZNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RENEW: unsupported operand type(s) for *: 'NoneType' and 'float'
+REVB: unsupported operand type(s) for *: 'NoneType' and 'float'
+REVBW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RFAIR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RGTIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RHLD: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RIBBU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RILY: unsupported operand type(s) for *: 'NoneType' and 'float'
+RIME: unsupported operand type(s) for *: 'NoneType' and 'float'
+RMNI: unsupported operand type(s) for *: 'NoneType' and 'float'
+RMSG: unsupported operand type(s) for *: 'NoneType' and 'float'
+RMSGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RUMBW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RVMDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RVPH: unsupported operand type(s) for *: 'NoneType' and 'float'
+RVPHW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RVSNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+RVYL: unsupported operand type(s) for *: 'NoneType' and 'float'
+RZLVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SABSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SAG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SAIHW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SAIL: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SANG: unsupported operand type(s) for *: 'NoneType' and 'float'
+SATLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SBCWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SBET: unsupported operand type(s) for *: 'NoneType' and 'float'
+SBFMW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SCLXW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SCNX: unsupported operand type(s) for *: 'NoneType' and 'float'
+SCWO: unsupported operand type(s) for *: 'NoneType' and 'float'
+SDA: unsupported operand type(s) for *: 'NoneType' and 'float'
+SDAWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SDSTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SEATW: unsupported operand type(s) for *: 'NoneType' and 'float'
+SENEB: unsupported operand type(s) for *: 'NoneType' and 'float'
+SEPN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SFBC: unsupported operand type(s) for *: 'NoneType' and 'float'
+SFD: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SFHG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SGML: unsupported operand type(s) for *: 'NoneType' and 'float'
+SHFSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SHIP: unsupported operand type(s) for *: 'NoneType' and 'float'
+SHMDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SHOTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SIMAU: unsupported operand type(s) for *: 'NoneType' and 'float'
+SIMAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SINT: unsupported operand type(s) for *: 'NoneType' and 'float'
+SION: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SJ: unsupported operand type(s) for *: 'NoneType' and 'float'
+SKBL: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SKGRU: unsupported operand type(s) for *: 'NoneType' and 'float'
+SKK: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SKYQ: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SLDPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SLXN: unsupported operand type(s) for *: 'NoneType' and 'float'
+SLXNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SMX: unsupported operand type(s) for *: 'NoneType' and 'float'
+SMXWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SNDK: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SNES: unsupported operand type(s) for *: 'NoneType' and 'float'
+SNGX: unsupported operand type(s) for *: 'NoneType' and 'float'
+SNRE: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SNYR: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SOBR: unsupported operand type(s) for *: 'NoneType' and 'float'
+SONDW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SONN: unsupported operand type(s) for *: 'NoneType' and 'float'
+SOUNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SOWG: unsupported operand type(s) for *: 'NoneType' and 'float'
+SPCB: unsupported operand type(s) for *: 'NoneType' and 'float'
+SPHA: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SPHAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SPHL: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+SPKLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SQFTW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SRZNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+STAK: calculate_vwma: The window size n cannot exceed the length of the input lists.
+STFS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+STI: unsupported operand type(s) for *: 'NoneType' and 'float'
+STKS: unsupported operand type(s) for *: 'NoneType' and 'float'
+STRK: calculate_vwma: The window size n cannot exceed the length of the input lists.
+STSSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SVCCU: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SVIIR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SVIIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SVREW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SWAGW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SWVLW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SXTPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+SYTA: unsupported operand type(s) for *: 'NoneType' and 'float'
+SYTAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TALKW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TAVI: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+TAVIR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TAVIU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+TBLAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TCBP: unsupported operand type(s) for *: 'NoneType' and 'float'
+TCBPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TDAC: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TDACU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+TDACW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TENX: unsupported operand type(s) for *: 'NoneType' and 'float'
+THRY: unsupported operand type(s) for *: 'NoneType' and 'float'
+TIPT: unsupported operand type(s) for *: 'NoneType' and 'float'
+TLF: unsupported operand type(s) for *: 'NoneType' and 'float'
+TLX: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+TNXP: unsupported operand type(s) for *: 'NoneType' and 'float'
+TOIIW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TOMZ: unsupported operand type(s) for *: 'NoneType' and 'float'
+TOYO: unsupported operand type(s) for *: 'NoneType' and 'float'
+TRMD: unsupported operand type(s) for *: 'NoneType' and 'float'
+TROO: unsupported operand type(s) for *: 'NoneType' and 'float'
+TRUG: unsupported operand type(s) for *: 'NoneType' and 'float'
+TSSI: unsupported operand type(s) for *: 'NoneType' and 'float'
+TTAN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+TVGNW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TWNP: calculate_vwma: The window size n cannot exceed the length of the input lists.
+TXMD: unsupported operand type(s) for *: 'NoneType' and 'float'
+TZUP: unsupported operand type(s) for *: 'NoneType' and 'float'
+UFG: calculate_vwma: The window size n cannot exceed the length of the input lists.
+UGRO: unsupported operand type(s) for *: 'NoneType' and 'float'
+UHGWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+UK: unsupported operand type(s) for *: 'NoneType' and 'float'
+UKOMW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+UMBFP: calculate_vwma: The window size n cannot exceed the length of the input lists.
+UPB: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+USGOW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+USIO: unsupported operand type(s) for *: 'NoneType' and 'float'
+VABK: unsupported operand type(s) for *: 'NoneType' and 'float'
+VACH: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+VACHW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VBFC: unsupported operand type(s) for *: 'NoneType' and 'float'
+VCIC: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+VCICW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VEEAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VERB: unsupported operand type(s) for *: 'NoneType' and 'float'
+VGASW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VIVK: unsupported operand type(s) for *: 'NoneType' and 'float'
+VLCN: unsupported operand type(s) for *: 'NoneType' and 'float'
+VLYPN: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+VMCAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VRM: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VRME: unsupported operand type(s) for *: 'NoneType' and 'float'
+VRMEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VS: unsupported operand type(s) for *: 'NoneType' and 'float'
+VSEEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VSTEW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+VTGN: unsupported operand type(s) for *: 'NoneType' and 'float'
+VVPR: unsupported operand type(s) for *: 'NoneType' and 'float'
+WCT: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+WETO: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WFCF: unsupported operand type(s) for *: 'NoneType' and 'float'
+WGRX: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WGSWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WHLR: unsupported operand type(s) for *: 'NoneType' and 'float'
+WILC: unsupported operand type(s) for *: 'NoneType' and 'float'
+WINT: unsupported operand type(s) for *: 'NoneType' and 'float'
+WINV: unsupported operand type(s) for *: 'NoneType' and 'float'
+WINVR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WINVU: unsupported operand type(s) for *: 'NoneType' and 'float'
+WINVW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WKEY: unsupported operand type(s) for *: 'NoneType' and 'float'
+WKSP: unsupported operand type(s) for *: 'NoneType' and 'float'
+WLAC: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+WLACU: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+WLACW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WLDSW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+WMPN: unsupported operand type(s) for *: 'NoneType' and 'float'
+WORX: unsupported operand type(s) for *: 'NoneType' and 'float'
+WRD: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+WSC: unsupported operand type(s) for *: 'NoneType' and 'float'
+WVVIP: unsupported operand type(s) for *: 'NoneType' and 'float'
+WYHG: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+XELB: unsupported operand type(s) for *: 'NoneType' and 'float'
+XHG: unsupported operand type(s) for *: 'NoneType' and 'float'
+XHLD: calculate_vwma: The window size n cannot exceed the length of the input lists.
+XOSWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+XTIA: unsupported operand type(s) for *: 'NoneType' and 'float'
+XXII: unsupported operand type(s) for *: 'NoneType' and 'float'
+XYLO: unsupported operand type(s) for *: 'NoneType' and 'float'
+YAAS: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+YHNA: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+YHNAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+YOTA: unsupported operand type(s) for *: 'NoneType' and 'float'
+YOTAR: calculate_vwma: The window size n cannot exceed the length of the input lists.
+YOTAW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+YSXT: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ZAPPW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ZBIO: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ZCARW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ZENA: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ZEO: unsupported operand type(s) for *: 'NoneType' and 'float'
+ZEOWW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ZJK: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ZOOZW: calculate_vwma: The window size n cannot exceed the length of the input lists.
+ZSPC: calculate_EMA: VWMA and DV must each be at least 3 times the size of the window.
+ZTEK: unsupported operand type(s) for *: 'NoneType' and 'float'
+ZVSA: unsupported operand type(s) for *: 'NoneType' and 'float'
+ZYBT: calculate_vwma: The window size n cannot exceed the length of the input lists.
